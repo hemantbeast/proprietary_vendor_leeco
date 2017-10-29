@@ -818,6 +818,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/vendor/lib64/libmmwfdsrcinterface.so:system/vendor/lib64/libmmwfdsrcinterface.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libnetmgr.so:system/vendor/lib64/libnetmgr.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libperipheral_client.so:system/vendor/lib64/libperipheral_client.so \
+    vendor/leeco/s2/proprietary/vendor/lib64/libprotobuf-cpp-fuck.so:system/vendor/lib64/libprotobuf-cpp-fuck.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libqc-opt.so:system/vendor/lib64/libqc-opt.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libqcci_legacy.so:system/vendor/lib64/libqcci_legacy.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libqcmaputils.so:system/vendor/lib64/libqcmaputils.so \
