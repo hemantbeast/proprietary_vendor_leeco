@@ -906,14 +906,12 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     TimeService \
     fastdormancy \
-    CNEService \
     com.qualcomm.location \
     qcrilmsgtunnel \
     ims \
     imssettings \
     cneapiclient \
     com.qti.location.sdk \
-    com.quicinc.cne \
     imscmlibrary \
     izat.xt.srv \
     qcnvitems \
