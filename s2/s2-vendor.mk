@@ -200,6 +200,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/lib/libmputility.so:system/lib/libmputility.so \
     vendor/leeco/s2/proprietary/lib/libqrDec.so:system/lib/libqrDec.so \
     vendor/leeco/s2/proprietary/lib/libstlport.so:system/lib/libstlport.so \
+    vendor/leeco/s2/proprietary/lib/libloc_pla.so:system/lib/libloc_pla.so \
     vendor/leeco/s2/proprietary/lib64/hw/fingerprint.vendor.msm8952.so:system/lib64/hw/fingerprint.vendor.msm8952.so \
     vendor/leeco/s2/proprietary/lib64/hw/gxfingerprint.default.so:system/lib64/hw/gxfingerprint.default.so \
     vendor/leeco/s2/proprietary/lib64/hw/sensors.msm8952.so:system/lib64/hw/sensors.msm8952.so \
@@ -207,6 +208,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/lib64/libfp_gf_intejni.so:system/lib64/libfp_gf_intejni.so \
     vendor/leeco/s2/proprietary/lib64/libfpnav.so:system/lib64/libfpnav.so \
     vendor/leeco/s2/proprietary/lib64/libfpservice.so:system/lib64/libfpservice.so \
+    vendor/leeco/s2/proprietary/lib64/libloc_pla.so:system/lib/libloc_pla.so \
     vendor/leeco/s2/proprietary/vendor/bin/fidoca:system/vendor/bin/fidoca \
     vendor/leeco/s2/proprietary/vendor/bin/fidodaemon:system/vendor/bin/fidodaemon \
     vendor/leeco/s2/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
