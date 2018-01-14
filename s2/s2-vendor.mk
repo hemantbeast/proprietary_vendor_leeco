@@ -208,7 +208,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/lib64/libfp_gf_intejni.so:system/lib64/libfp_gf_intejni.so \
     vendor/leeco/s2/proprietary/lib64/libfpnav.so:system/lib64/libfpnav.so \
     vendor/leeco/s2/proprietary/lib64/libfpservice.so:system/lib64/libfpservice.so \
-    vendor/leeco/s2/proprietary/lib64/libloc_pla.so:system/lib/libloc_pla.so \
+    vendor/leeco/s2/proprietary/lib64/libloc_pla.so:system/lib64/libloc_pla.so \
     vendor/leeco/s2/proprietary/vendor/bin/fidoca:system/vendor/bin/fidoca \
     vendor/leeco/s2/proprietary/vendor/bin/fidodaemon:system/vendor/bin/fidodaemon \
     vendor/leeco/s2/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
@@ -617,6 +617,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/vendor/lib/libstlport_sta.so:system/vendor/lib/libstlport_sta.so \
     vendor/leeco/s2/proprietary/vendor/lib/libsubsystem_control.so:system/vendor/lib/libsubsystem_control.so \
     vendor/leeco/s2/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
+    vendor/leeco/s2/proprietary/vendor/lib/libtinyxml.so:system/vendor/lib/libtinyxml.so \
     vendor/leeco/s2/proprietary/vendor/lib/libtar.so:system/vendor/lib/libtar.so \
     vendor/leeco/s2/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
     vendor/leeco/s2/proprietary/vendor/lib/libtzplayready.so:system/vendor/lib/libtzplayready.so \
@@ -863,6 +864,7 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/s2/proprietary/vendor/lib64/libstlport_sta.so:system/vendor/lib64/libstlport_sta.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libsubsystem_control.so:system/vendor/lib64/libsubsystem_control.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libsystem_health_mon.so:system/vendor/lib64/libsystem_health_mon.so \
+    vendor/leeco/s2/proprietary/vendor/lib64/libtinyxml.so:system/vendor/lib64/libtinyxml.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libthermalioctl.so:system/vendor/lib64/libthermalioctl.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libtzdrmgenprov.so:system/vendor/lib64/libtzdrmgenprov.so \
     vendor/leeco/s2/proprietary/vendor/lib64/libtzplayready.so:system/vendor/lib64/libtzplayready.so \
